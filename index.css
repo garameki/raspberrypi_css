@@ -1,0 +1,210 @@
+.clear {
+	clear:both;
+}
+body {
+}
+#body {
+	font-family:"MigMix 1P","MS Pゴシック","MS ゴシック",sans-serif;
+	margin:0px;
+	background-color:black;
+}
+#top {
+	width:800px;
+}
+#topHead {
+	margin-top:0px;
+	margin-bottom:50px;
+	padding-top:100px;
+	background: no-repeat url(title.jpg);
+	background-size:cover;
+	text-align:right;
+}
+#topTitle {
+	margin-left:300px;
+	margin-right:10px;
+	font-size:45px;
+	color:#00e050;
+}
+#topSubtitle {
+	margin-left:300px;
+	margin-right:10px;
+	padding-bottom:10px;
+	font-size:20px;
+	color:yellow;
+}
+#museum {
+	position:relative;
+	left:100px;
+}
+#temperatureMax31856 {
+}
+#middle {
+	width:800px;
+}
+#leftColumn {
+	float:left;
+	width:600px;
+	color:white;
+}
+.leftContent {
+	margin-bottom:30px;
+}
+.leftHead {
+	margin:0px;
+	float:left;
+	font-family:sans;
+	text-align:center;
+	width:120px;
+	height:100px;
+	background:no-repeat url(title.jpg);
+	background-size:cover;
+	border-width:medium;
+	border-style:double;
+	border-color:#E06D6D;
+}
+.leftDate {
+	font-size:25px;
+	padding-top:10px;
+}
+.leftDay {
+	font-size:18px;
+}
+.leftYear {
+	font-size:20px;
+}
+.leftTitle {
+	line-height:28px;
+	letter-spacing:-3px;
+	padding-top:10px;
+	padding-bottom:3px;
+	margin-left:130px;
+	margin-right:20px;
+	width:450px;
+	font-weight:bold;
+	font-size:30px;
+	border-bottom:dashed #555 1px;
+	color:#0fa;
+}
+a.leftTitleLink:-webkit-any-link {
+	text-decoration:none;
+}
+a:link {
+	color:#0fa;
+}
+a:hover {
+	color:#0fa;
+}
+a:visited {
+	color:#0fa;
+}
+.leftEditDay {
+	margin-left:140px;
+	font-size:10px;
+}
+.leftCategory {
+	margin-top:6px;
+	margin-left:140px;
+	font-size:12px;
+	line-height:12px;
+}
+.leftCategorySpan {
+	margin-left:3px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:3px;
+	padding-right:3px;
+	border-radius:3px;
+	border-style:solid;
+	border-color:#369625;
+	background-color:#369625;
+}
+.leftArticle {
+	margin-top:8px;
+	margin-left:140px;
+	font-size:12px;
+}
+.leftArticleSpan {
+	margin-left:3px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:3px;
+	padding-right:3px;
+	border-radius:3px;
+	border-style:solid;
+	border-color:#929421;
+	background-color:#929421;
+}
+.leftArticleSpanSolved {
+	margin-left:3px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:3px;
+	padding-right:3px;
+	border-radius:3px;
+	border-style:solid;
+	border-color:#582194;
+	background-color:#582194;
+}
+.leftArticleSpanUnsolved {
+	margin-left:3px;
+	border-top-width:0px;
+	border-bottom-width:0px;
+	border-left-width:1px;
+	border-right-width:1px;
+	padding-top:1px;
+	padding-bottom:1px;
+	padding-left:3px;
+	padding-right:3px;
+	border-radius:3px;
+	border-style:solid;
+	border-color:#E00116;
+	background-color:#E00116;
+}
+.leftBeginning {
+	position:relative;
+	top:5px;
+	margin-left:140px;
+	font-size:12px;
+}
+#rightColumn {
+	float:left;
+	width:170px;
+	margin-left:30px;
+}
+.rightTitles {
+	padding:5px;
+	margin:5px;
+	background-color:#39AFED;
+	text-align:center;
+	color:black;
+}
+.rightContents {
+	margin-left:10px;
+	margin-right:6px;
+	line-height:11px;
+	font-size:10px;
+	color:white;
+}
+.rightIframe {
+	width:160px;
+	border-width:0px;
+}
+#bottom {
+	width:800px;
+	border-top:solid 1px white;
+	text-align:right;
+	font-size:15px;
+	color:white;
+}
